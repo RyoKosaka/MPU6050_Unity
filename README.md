@@ -1,5 +1,5 @@
 # MPU6050_Unity
-・Using MPU6050 and Arduino with Unity
+・Using MPU6050 and Arduino with Unity 
 ・To make Project North Star 3DoF
 
 Setup
